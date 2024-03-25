@@ -1,0 +1,9 @@
+../Core/Src/lib_ina219.c:36:6:ina219_WriteRegister	32	static
+../Core/Src/lib_ina219.c:50:6:ina219_ReadRegister	40	static
+../Core/Src/lib_ina219.c:69:6:ina219_SetCalibration_32V_640mA	16	static
+../Core/Src/lib_ina219.c:152:6:ina219_SetCalibration_32V_320mA	16	static
+../Core/Src/lib_ina219.c:169:6:ina219_SetCalibration_16V_80mA	16	static
+../Core/Src/lib_ina219.c:191:6:ina219_begin	8	static
+../Core/Src/lib_ina219.c:201:7:ina219_getBusVoltage_V	16	static
+../Core/Src/lib_ina219.c:215:7:ina219_getShuntVoltage_mV	16	static
+../Core/Src/lib_ina219.c:229:7:ina219_getCurrent_mA	24	static

@@ -1,0 +1,5 @@
+bsp_as5600.c:9:6:bsp_as5600Init	1
+bsp_as5600.c:17:12:i2cWrite	1
+bsp_as5600.c:25:12:i2cRead	1
+bsp_as5600.c:33:10:bsp_as5600GetRawAngle	1
+bsp_as5600.c:44:7:bsp_as5600GetAngle	4
